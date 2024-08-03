@@ -1,0 +1,1 @@
+A machine learning project that predicts house prices using Ridge Regression. The model processes historical real estate data, performs feature engineering and preprocessing, and evaluates performance using metrics like MAE, MSE, and R². The project demonstrates the application of regression techniques to forecast property values and handle data-driven predictions effectively.
